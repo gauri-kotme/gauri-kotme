@@ -76,6 +76,7 @@ To become a skilled AI Engineer and develop intelligent systems that are useful,
 ### 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/gauri-kotme-a24642301 
+
 Email: kotamegauri@gmail.com
 
 ---
