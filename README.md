@@ -1,76 +1,89 @@
 <h1 align="center">Hi 👋 I'm Gauri Kotme</h1>
 
-<h3 align="center">AI & Data Science Student | Building Intelligent Systems</h3>
+<h3 align="center">AI & Data Science Student | Learning • Building • Growing</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech Student in Artificial Intelligence & Data Science  
+- 🎓 B.Tech student in Artificial Intelligence & Data Science  
 - 💼 Currently working at Ethara  
-- 🚀 Exploring Machine Learning & AI Projects  
-- 📍 Passionate about solving real-world problems  
+- 🏅 Participated and received recognition at **DIPEX**  
+- 🚀 Passionate about learning and building real-world AI projects  
+- 📌 Focused on practical knowledge and industry skills  
 
 ---
 
 ### 🔬 Currently Working On
 
-**Explainable AI System (XAI)**
+**Explainable AI System (XAI)**  
 
-Explainable AI is a system that not only gives predictions but also explains the reason behind them.
+Explainable AI helps understand how a model makes decisions.  
+Instead of giving only prediction, it also shows the reason behind the result.
 
-Example:
-If AI predicts “Spam Email”  
-It will also show why:
-- Suspicious words  
-- Unknown sender  
-- Multiple links  
-
-Goal of this project:
-- Make AI decisions transparent  
+Purpose:
+- Make AI decisions clear and understandable  
 - Increase trust in AI systems  
-- Apply AI responsibly  
+- Use AI in a responsible and transparent way  
+
+---
+
+### 🚀 Major Projects
+
+**AI Voice Detection System**  
+- Developed a system to identify and analyze voice using AI techniques  
+- Used machine learning concepts for audio analysis  
+- Built as a practical real-world AI application  
+
+Other Academic Projects:
+- AI Prediction Models  
+- Python-based Mini Projects  
 
 ---
 
 ### 🛠 Technical Skills
 
-- Programming: C, C++, Java, Python  
-- Basics of Machine Learning  
-- Data Handling  
-- Logical Problem Solving  
+**Programming Languages**
+- Python  
+- C  
+- C++  
+- Java  
+
+**Core Skills**
+- Basic Machine Learning  
+- Data Preprocessing  
+- Model Training & Testing  
+- Problem Solving  
 
 ---
 
-### 💡 Interests
+### 💡 Areas of Interest
 
 - Artificial Intelligence  
 - Machine Learning  
-- AI Ethics  
+- Explainable AI  
+- Data Analysis  
 - Real-world AI Applications  
+
+---
+
+### 🎯 Career Goal
+
+To become a skilled AI Engineer and develop intelligent systems that are useful, reliable, and easy to understand.
 
 ---
 
 ### 📫 Connect With Me
 
-LinkedIn: (Add link)  
-Email: (Add email)
+LinkedIn: https://www.linkedin.com/in/gauri-kotme-a24642301 
+Email: kotamegauri@gmail.com
 
 ---
 
-<h3 align="center">Always Learning • Always Improving</h3>## Hi there 👋
+<h3 align="center">Always Learning • Always Improving</h3>
 
-<!--
-**gauri-kotme/gauri-kotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
